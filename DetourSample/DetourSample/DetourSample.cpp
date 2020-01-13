@@ -1,3 +1,4 @@
+// https://docs.microsoft.com/zh-cn/archive/blogs/calvin_hsia/detouring-code
 // DetourSample.cpp : Defines the entry point for the application.
 //
 
